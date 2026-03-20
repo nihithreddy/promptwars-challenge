@@ -1,0 +1,15 @@
+Patient Details:
+Name: John Doe
+DOB: 05/14/1985
+
+Known Allergies:
+- Penicillin (SEVERE - Anaphylaxis)
+- Latex (Mild rash)
+
+Current Medications:
+- Albuterol inhaler (as needed for Asthma)
+- Lisinopril 10mg daily 
+
+Medical History:
+- Asthma
+- Hypertension

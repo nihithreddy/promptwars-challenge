@@ -1,0 +1,16 @@
+Pediatric Record
+
+Patient Name: Emily Clark (Age 8)
+Weight: 28 kg
+
+Conditions:
+- Mild dehydration
+
+Immunizations:
+- Up to date
+
+Known Allergies: 
+- N/A
+
+Current Meds:
+- Daily multivitamin

@@ -1,0 +1,18 @@
+EMERGENCY MEDICAL CARD
+
+Patient: Robert Chase
+Age: 72
+Blood Type: O+
+
+ACTIVE MEDICATIONS
+- Warfarin (Blood Thinner) 5mg
+- Metformin 500mg
+- Atorvastatin 20mg
+
+CONDITIONS
+- Type 2 Diabetes
+- History of Peptic Ulcers
+- Atrial Fibrillation 
+
+ALLERGIES
+- None known.
