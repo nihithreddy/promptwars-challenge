@@ -30,7 +30,7 @@ app.add_middleware(
 )
 
 # Use the new API key provided by the user
-api_key = os.environ.get("GEMINI_API_KEY", "AIzaSyD4xr3S-qH3zwdzQid9VS0ya8r6AoUhbv4")
+api_key = os.environ.get("GEMINI_API_KEY", "")
 genai.configure(api_key=api_key)
 
 system_instruction = """
