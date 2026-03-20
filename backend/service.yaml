@@ -17,4 +17,4 @@ spec:
         - containerPort: 8080
         env:
         - name: GEMINI_API_KEY
-          value: "AIzaSyD4xr3S-qH3zwdzQid9VS0ya8r6AoUhbv4"
+          value: ""
